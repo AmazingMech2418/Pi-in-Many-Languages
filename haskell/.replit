@@ -1,0 +1,8 @@
+# Compile:
+# run="ghc -O3 --make *.hs -o main -threaded -rtsopts"
+
+# Run:
+# run="./main"
+
+# Both:
+run="bash main.sh"
