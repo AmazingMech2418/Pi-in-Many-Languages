@@ -35,6 +35,7 @@ This is the compilation of my series of posts on Repl.it which can be found at h
 * LOLCODE
 * Lua
 * Nim
+* Pascal
 * PHP
 * Python
 * R
