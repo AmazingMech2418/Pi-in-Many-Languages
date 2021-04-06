@@ -39,6 +39,7 @@ This is the compilation of my series of posts on Repl.it which can be found at h
 * Objective-C
 * Pascal
 * PHP
+* Prolog
 * Python
 * R
 * Raku/Perl 6
