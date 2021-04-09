@@ -49,3 +49,5 @@ This is the compilation of my series of posts on Repl.it which can be found at h
 * Scala
 * Swift
 * Tcl
+* V
+* Zig
