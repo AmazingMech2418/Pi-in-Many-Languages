@@ -1,0 +1,1 @@
+run = "nix-shell /opt/nixproxy.nix --argstr repldir $PWD --command 'bash main.sh'"
